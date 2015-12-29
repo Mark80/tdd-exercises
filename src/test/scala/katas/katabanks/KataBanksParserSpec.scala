@@ -5,7 +5,7 @@ import org.scalatest.{Matchers, FlatSpec}
 import scala.annotation.tailrec
 
 
-class KataBanksSpec extends FlatSpec with Matchers {
+class KataBanksParserSpec extends FlatSpec with Matchers {
 
   import InputParser._
 
